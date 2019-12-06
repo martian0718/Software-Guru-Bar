@@ -1,0 +1,410 @@
+Time: 4Group of 1 customers arrives Group is seated.
+Time: 7Group of 4 customers arrives Group is seated.
+Time: 9Group of 4 customers arrives Group is seated.
+Time: 10. Serviced order for 1
+Time: 11Group of 3 customers arrives Group is seated.
+Time: 12. Serviced order for 0
+Time: 12. Serviced order for 1
+Time: 12. Serviced order for 1
+Time: 12. Serviced order for 1
+Time: 13Group of 1 customers arrives Group is seated.
+Time: 14. Serviced order for 0
+Time: 14. Serviced order for 0
+Time: 14. Serviced order for 0
+Time: 14. Serviced order for 1
+Time: 15Group of 1 customers arrives Group is seated.
+Time: 18. Serviced order for 1
+Time: 18. Serviced order for 2
+Time: 18. Serviced order for 0
+Time: 19Group of 4 customers arrives Group is seated.
+Time: 20. Serviced order for 2
+Time: 21. Serviced order for 1
+Time: 21Group of 4 customers arrives Group is seated.
+Time: 24. Serviced order for 2
+Time: 24. Serviced order for 1
+Time: 24. Serviced order for 1
+Time: 24. Serviced order for 2
+Time: 25Group of 3 customers arrives Group is seated.
+Time: 27Group of 3 customers arrives Group is seated.
+Time: 29Group of 4 customers arrives Group is seated.
+Time: 29. Serviced order for 2
+Time: 29. Serviced order for 0
+Time: 29. Serviced order for 1
+Time: 29. Serviced order for 1
+Time: 31Group of 2 customers arrives Group is seated.
+Time: 31. Serviced order for 1
+Time: 31. Serviced order for 1
+Time: 31. Serviced order for 2
+Time: 31. Serviced order for 2
+Time: 31. Serviced order for 1
+Time: 31. Serviced order for 0
+Time: 31. Serviced order for 0
+Time: 32. Serviced order for 2
+Time: 32. Serviced order for 2
+Time: 32. Serviced order for 2
+Time: 32. Serviced order for 1
+Time: 32. Serviced order for 0
+Time: 32. Serviced order for 0
+Time: 32. Serviced order for 0
+Time: 32. Serviced order for 1
+Time: 32. Serviced order for 2
+Time: 32. Serviced order for 0
+Time: 34Group of 1 customers arrives Group is seated.
+Time: 36. Serviced order for 1
+Time: 37. Group of size 1 leaves.
+Time: 38Group of 4 customers arrives Group is seated.
+Time: 39. Serviced order for 1
+Time: 39. Serviced order for 1
+Time: 40. Group of size 1 leaves.
+Time: 42Group of 1 customers arrives Group is seated.
+Time: 43. Serviced order for 0
+Time: 43. Serviced order for 2
+Time: 43. Serviced order for 1
+Time: 43. Serviced order for 0
+Time: 44Group of 1 customers arrives Group is seated.
+Time: 46. Group of size 4 leaves.
+Time: 47Group of 4 customers arrives Group is seated.
+Time: 47. Serviced order for 2
+Time: 49. Group of size 4 leaves.
+Time: 49Group of 3 customers arrives Group is seated.
+Time: 51. Group of size 3 leaves.
+Time: 51Group of 3 customers arrives Group is seated.
+Time: 51. Serviced order for 1
+Time: 53. Serviced order for 0
+Time: 53. Serviced order for 0
+Time: 53. Serviced order for 1
+Time: 53. Serviced order for 1
+Time: 53. Group of size 1 leaves.
+Time: 54. Group of size 4 leaves.
+Time: 55Group of 2 customers arrives Group is seated.
+Time: 55. Group of size 3 leaves.
+Time: 56. Group of size 4 leaves.
+Time: 56. Serviced order for 1
+Time: 56. Serviced order for 1
+Time: 56. Serviced order for 1
+Time: 57. Serviced order for 1
+Time: 57. Serviced order for 1
+Time: 58. Serviced order for 2
+Time: 59Group of 4 customers arrives Group is seated.
+Time: 59. Serviced order for 1
+Time: 59. Serviced order for 2
+Time: 59. Serviced order for 1
+Time: 62Group of 1 customers arrives Group is seated.
+Time: 63. Group of size 4 leaves.
+Time: 63. Group of size 1 leaves.
+Time: 63. Group of size 3 leaves.
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 2
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 1
+Time: 64. Serviced order for 1
+Time: 66. Group of size 2 leaves.
+Time: 66Group of 4 customers arrives Group is seated.
+Time: 66. Group of size 4 leaves.
+Time: 68Group of 3 customers arrives Group is seated.
+Time: 69. Group of size 1 leaves.
+Time: 71Group of 4 customers arrives Group is seated.
+Time: 71. Serviced order for 1
+Time: 72. Serviced order for 1
+Time: 72. Serviced order for 0
+Time: 72. Serviced order for 1
+Time: 73. Serviced order for 1
+Time: 73. Serviced order for 2
+Time: 73. Serviced order for 1
+Time: 73. Serviced order for 1
+Time: 74Group of 1 customers arrives Group is seated.
+Time: 76Group of 1 customers arrives Group is seated.
+Time: 76. Serviced order for 2
+Time: 76. Serviced order for 1
+Time: 76. Serviced order for 2
+Time: 76. Serviced order for 1
+Time: 76. Serviced order for 0
+Time: 79Group of 4 customers arrives Group is seated.
+Time: 79. Serviced order for 1
+Time: 80. Group of size 2 leaves.
+Time: 81. Serviced order for 0
+Time: 81. Serviced order for 1
+Time: 81. Serviced order for 2
+Time: 81. Serviced order for 1
+Time: 83Group of 2 customers arrives Group is seated.
+Time: 83. Group of size 1 leaves.
+Time: 86. Group of size 3 leaves.
+Time: 87Group of 2 customers arrives Group is seated.
+Time: 89. Serviced order for 1
+Time: 89. Serviced order for 1
+Time: 89. Serviced order for 2
+Time: 90Group of 4 customers arrives Group is seated.
+Time: 90. Group of size 4 leaves.
+Time: 91. Group of size 1 leaves.
+Time: 91. Serviced order for 1
+Time: 91. Serviced order for 1
+Time: 92. Group of size 3 leaves.
+Time: 92Group of 3 customers arrives Group is seated.
+Time: 92. Serviced order for 2
+Time: 93. Serviced order for 1
+Time: 93. Serviced order for 1
+Time: 95. Group of size 4 leaves.
+Time: 95. Serviced order for 0
+Time: 95. Serviced order for 2
+Time: 95. Serviced order for 1
+Time: 95. Group of size 4 leaves.
+Time: 96. Serviced order for 0
+Time: 96. Serviced order for 1
+Time: 96. Serviced order for 1
+Time: 96. Serviced order for 1
+Time: 96Group of 3 customers arrives Group is seated.
+Time: 98. Group of size 4 leaves.
+Time: 100Group of 4 customers arrives Group is seated.
+Time: 101. Serviced order for 1
+Time: 101. Serviced order for 2
+Time: 101. Serviced order for 0
+Time: 104Group of 4 customers arrives Group is seated.
+Time: 106. Serviced order for 1
+Time: 106. Serviced order for 1
+Time: 106. Serviced order for 1
+Time: 106. Serviced order for 2
+Time: 107. Serviced order for 1
+Time: 107. Serviced order for 2
+Time: 108. Serviced order for 1
+Time: 108. Serviced order for 2
+Time: 108. Serviced order for 0
+Time: 108. Serviced order for 1
+Time: 108. Serviced order for 1
+Time: 108. Serviced order for 1
+Time: 108Group of 1 customers arrives Group is seated.
+Time: 110. Serviced order for 1
+Time: 110. Serviced order for 1
+Time: 110. Serviced order for 2
+Time: 110. Serviced order for 2
+Time: 110Group of 3 customers arrives Group is seated.
+Time: 110. Group of size 3 leaves.
+Time: 111. Group of size 1 leaves.
+Time: 112Group of 3 customers arrives Group is seated.
+Time: 114. Serviced order for 1
+Time: 115. Group of size 1 leaves.
+Time: 115. Group of size 4 leaves.
+Time: 116Group of 2 customers arrives Group is seated.
+Time: 118. Serviced order for 0
+Time: 118. Serviced order for 1
+Time: 118. Serviced order for 2
+Time: 119Group of 1 customers arrives Group is seated.
+Time: 121. Group of size 3 leaves.
+Time: 121. Serviced order for 0
+Time: 121. Serviced order for 0
+Time: 121. Serviced order for 1
+Time: 121Group of 2 customers arrives Group is seated.
+Time: 122. Serviced order for 1
+Time: 122. Serviced order for 1
+Time: 124Group of 1 customers arrives Group is seated.
+Time: 124. Group of size 4 leaves.
+Time: 126. Serviced order for 2
+Time: 126. Group of size 4 leaves.
+Time: 126Group of 3 customers arrives Group is seated.
+Time: 126. Group of size 2 leaves.
+Time: 128Group of 1 customers arrives Group is seated.
+Time: 129. Serviced order for 2
+Time: 129. Serviced order for 1
+Time: 130. Serviced order for 1
+Time: 131. Serviced order for 1
+Time: 131. Serviced order for 1
+Time: 131. Serviced order for 1
+Time: 132Group of 4 customers arrives Group is seated.
+Time: 134. Group of size 1 leaves.
+Time: 134. Group of size 3 leaves.
+Time: 135. Group of size 2 leaves.
+Time: 135. Serviced order for 1
+Time: 136Group of 1 customers arrives Group is seated.
+Time: 138. Serviced order for 2
+Time: 138. Serviced order for 2
+Time: 138. Serviced order for 2
+Time: 139. Serviced order for 2
+Time: 139. Serviced order for 2
+Time: 140Group of 1 customers arrives Group is seated.
+Time: 140. Group of size 3 leaves.
+Time: 141. Serviced order for 2
+Time: 141. Serviced order for 2
+Time: 141. Serviced order for 2
+Time: 141. Serviced order for 0
+Time: 142. Group of size 4 leaves.
+Time: 143Group of 4 customers arrives Group is seated.
+Time: 143. Serviced order for 1
+Time: 145. Serviced order for 2
+Time: 145. Serviced order for 1
+Time: 146. Group of size 1 leaves.
+Time: 147Group of 1 customers arrives Group is seated.
+Time: 147. Serviced order for 2
+Time: 147. Serviced order for 1
+Time: 147. Serviced order for 1
+Time: 147. Serviced order for 1
+Time: 148. Serviced order for 1
+Time: 149Group of 4 customers arrives Group is seated.
+Time: 152Group of 1 customers arrives Group is seated.
+Time: 152. Serviced order for 1
+Time: 152. Serviced order for 1
+Time: 152. Serviced order for 1
+Time: 152. Serviced order for 2
+Time: 152. Serviced order for 1
+Time: 154Group of 2 customers arrives Group is seated.
+Time: 155. Group of size 2 leaves.
+Time: 156. Serviced order for 1
+Time: 156. Serviced order for 0
+Time: 157. Serviced order for 1
+Time: 158Group of 2 customers arrives Group is seated.
+Time: 160. Group of size 1 leaves.
+Time: 160. Group of size 1 leaves.
+Time: 160. Group of size 3 leaves.
+Time: 161Group of 1 customers arrives Group is seated.
+Time: 162. Group of size 2 leaves.
+Time: 164Group of 2 customers arrives Group is seated.
+Time: 164. Serviced order for 1
+Time: 164. Serviced order for 2
+Time: 165. Group of size 3 leaves.
+Time: 165. Group of size 4 leaves.
+Time: 165. Serviced order for 2
+Time: 166Group of 4 customers arrives Group is seated.
+Time: 167. Serviced order for 1
+Time: 169Group of 1 customers arrives Group is seated.
+Time: 169. Group of size 1 leaves.
+Time: 170. Group of size 4 leaves.
+Time: 171Group of 3 customers arrives Group is seated.
+Time: 171. Serviced order for 1
+Time: 171. Serviced order for 1
+Time: 171. Serviced order for 0
+Time: 171. Serviced order for 0
+Time: 172. Serviced order for 1
+Time: 172. Serviced order for 1
+Time: 172. Serviced order for 1
+Time: 173Group of 1 customers arrives Group is seated.
+Time: 173. Serviced order for 2
+Time: 175. Group of size 4 leaves.
+Time: 176Group of 3 customers arrives Group is seated.
+Time: 178. Serviced order for 1
+Time: 178. Serviced order for 0
+Time: 178. Serviced order for 1
+Time: 178. Serviced order for 1
+Time: 180Group of 1 customers arrives Group is seated.
+Time: 181. Serviced order for 2
+Time: 181. Serviced order for 1
+Time: 181. Serviced order for 1
+Time: 182. Group of size 1 leaves.
+Time: 182. Group of size 1 leaves.
+Time: 184. Serviced order for 1
+Time: 184Group of 4 customers arrives Group is seated.
+Time: 184. Serviced order for 1
+Time: 185. Serviced order for 2
+Time: 185. Serviced order for 2
+Time: 186. Group of size 2 leaves.
+Time: 186Group of 1 customers arrives Group is seated.
+Time: 188Group of 4 customers arrives Group is seated.
+Time: 189. Serviced order for 1
+Time: 189. Serviced order for 1
+Time: 189. Serviced order for 0
+Time: 189. Serviced order for 2
+Time: 190. Serviced order for 2
+Time: 190. Serviced order for 2
+Time: 190. Serviced order for 2
+Time: 191. Serviced order for 1
+Time: 191. Serviced order for 2
+Time: 191. Serviced order for 2
+Time: 192. Serviced order for 1
+Time: 192Group of 2 customers arrives Group is seated.
+Time: 195Group of 1 customers arrives Group is seated.
+Time: 195. Serviced order for 2
+Time: 195. Serviced order for 1
+Time: 195. Serviced order for 0
+Time: 195. Serviced order for 2
+Time: 195. Serviced order for 1
+Time: 195. Serviced order for 1
+Time: 198. Group of size 2 leaves.
+Time: 199. Group of size 1 leaves.
+Time: 199Group of 4 customers arrives Group is seated.
+Time: 199. Group of size 1 leaves.
+Time: 201. Group of size 4 leaves.
+Time: 202. Serviced order for 2
+Time: 202. Serviced order for 1
+Time: 203. Serviced order for 1
+Time: 203. Serviced order for 1
+Time: 203. Serviced order for 1
+Time: 203. Serviced order for 2
+Time: 203Group of 4 customers arrives Group is seated.
+Time: 203. Group of size 1 leaves.
+Time: 205. Group of size 2 leaves.
+Time: 206Group of 1 customers arrives Group is seated.
+Time: 208. Group of size 1 leaves.
+Time: 209. Group of size 3 leaves.
+Time: 209. Serviced order for 0
+Time: 209. Serviced order for 0
+Time: 209. Serviced order for 1
+Time: 209. Serviced order for 2
+Time: 209. Serviced order for 0
+Time: 209. Group of size 3 leaves.
+Time: 210Group of 1 customers arrives Group is seated.
+Time: 212Group of 1 customers arrives Group is seated.
+Time: 213. Group of size 4 leaves.
+Time: 214. Serviced order for 2
+Time: 214. Serviced order for 1
+Time: 214Group of 2 customers arrives Group is seated.
+Time: 216. Group of size 1 leaves.
+Time: 216. Serviced order for 1
+Time: 216. Serviced order for 1
+Time: 217Group of 2 customers arrives Group is seated.
+Time: 217. Group of size 1 leaves.
+Time: 218. Serviced order for 2
+Time: 218. Serviced order for 1
+Time: 220Group of 2 customers arrives Group is seated.
+Time: 222Group of 2 customers arrives Group is seated.
+Time: 222. Serviced order for 1
+Time: 222. Serviced order for 1
+Time: 223. Group of size 4 leaves.
+Time: 223. Serviced order for 1
+Time: 223. Serviced order for 0
+Time: 225Group of 2 customers arrives Group is seated.
+Time: 226. Serviced order for 1
+Time: 227. Serviced order for 2
+Time: 227. Serviced order for 2
+Time: 229. Group of size 1 leaves.
+Time: 229Group of 1 customers arrives Group is seated.
+Time: 230. Serviced order for 1
+Time: 230. Serviced order for 1
+Time: 231. Serviced order for 1
+Time: 231. Serviced order for 1
+Time: 231. Serviced order for 1
+Time: 232. Group of size 4 leaves.
+Time: 233Group of 2 customers arrives Group is seated.
+Time: 235Group of 2 customers arrives Group is seated.
+Time: 237. Group of size 4 leaves.
+Time: 238Group of 3 customers arrives Group is seated.
+Time: 239. Serviced order for 0
+Time: 239. Serviced order for 1
+Time: 241. Group of size 1 leaves.
+Time: 241Group of 2 customers arrives Group is seated.
+Time: 243. Serviced order for 0
+Time: 243. Serviced order for 2
+Time: 243. Serviced order for 0
+Time: 244. Serviced order for 2
+Time: 244. Serviced order for 0
+Time: 245. Group of size 1 leaves.
+Time: 247. Serviced order for 2
+Time: 247. Serviced order for 0
+Time: 247. Group of size 2 leaves.
+Time: 247. Group of size 1 leaves.
+Time: 247. Group of size 2 leaves.
+Time: 247. Serviced order for 1
+Time: 247. Serviced order for 2
+Time: 248. Group of size 2 leaves.
+Time: 251. Group of size 2 leaves.
+Time: 251. Group of size 2 leaves.
+Time: 255. Serviced order for 2
+Time: 255. Serviced order for 1
+Time: 259. Group of size 1 leaves.
+Time: 260. Serviced order for 2
+Time: 260. Serviced order for 1
+Time: 262. Group of size 2 leaves.
+Time: 265. Group of size 3 leaves.
+Time: 278. Group of size 2 leaves.
+Time: 281. Group of size 2 leaves.
+Time: 286. Group of size 2 leaves.
+Total profits: 769

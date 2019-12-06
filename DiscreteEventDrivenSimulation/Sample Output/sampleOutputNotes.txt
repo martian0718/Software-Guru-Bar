@@ -1,0 +1,4 @@
+0 means local beer
+1 means imported beer
+2 means special beer 
+
